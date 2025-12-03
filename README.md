@@ -41,7 +41,7 @@ HANDCRICKET-GAME/
 
 - **Coin Toss**: Start the game with a head or tails choice
 - **Multiple Themes**: Dark, Light, Purple, and secret Rainbow theme
-- **Difficulty Levels**: Easy, Medium, and Hard AI opponents
+- **Difficulty Levels**: Easy, Medium, Hard AI,also nightmare level opponents
 - **Screenshot Sharing**: Capture and share game results
 - **Responsive Design**: Works on different screen sizes
 - **Sound Effects**: Audio feedback for game events
